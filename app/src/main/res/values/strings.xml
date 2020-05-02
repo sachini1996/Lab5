@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BroadcastProj</string>
+    <string name="name1">Received Broadcast 1</string>
+    <string name="name2">Received Broadcast 2</string>
+    <string name="name3">Received Broadcast 3</string>
+    <string name="name4">Received Broadcast 4</string>
+    <string name="name5">Received Broadcast 5</string>
+    <string name="name6">START BROADCAST</string>
+</resources>
